@@ -1,5 +1,7 @@
 # Kubernetes The Hard Way
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/7f8b7538-a691-45ff-91a1-634e5e6eb449.svg?orgId=697127810763)](https://app.soluble.cloud/repos/details/github.com/vknell/kubernetes-the-hard-way?orgId=697127810763)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/9459c9de-beaf-4fed-a474-81ce5d37f21b.svg?orgId=697127810763)](https://app.soluble.cloud/repos/details/github.com/vknell/kubernetes-the-hard-way?orgId=697127810763)  
+
 This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine), or the [Getting Started Guides](https://kubernetes.io/docs/setup).
 
 Kubernetes The Hard Way is optimized for learning, which means taking the long route to ensure you understand each task required to bootstrap a Kubernetes cluster.
